@@ -1,9 +1,0 @@
-project-root/
-│
-├── assets/
-│   ├── audio/
-│   │   ├── bgm/        # background music
-│   │   └── sfx/        # sound effects
-│   ├── images/         # sprites, textures, icons
-│   ├── fonts/          # custom fonts if any
-│   └── data/           # datasets or configs
