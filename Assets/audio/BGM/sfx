@@ -1,1 +1,5 @@
+const strikeSound = new Audio("Assets/audio/SFX/lightning_strike.mp3");
 
+function playStrike() {
+    strikeSound.play();
+}
